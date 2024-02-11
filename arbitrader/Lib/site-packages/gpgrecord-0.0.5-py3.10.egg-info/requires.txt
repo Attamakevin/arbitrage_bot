@@ -1,0 +1,6 @@
+python-gnupg>=0.4.4
+
+[test]
+coverage
+pytest
+pytest-cov

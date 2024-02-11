@@ -1,0 +1,9 @@
+metawiki
+typology
+gpgrecord
+python-dateutil
+
+[test]
+coverage
+pytest
+pytest-cov

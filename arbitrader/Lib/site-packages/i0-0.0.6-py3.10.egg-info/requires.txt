@@ -1,0 +1,11 @@
+fastapi[all]
+typer
+metaform
+metatype
+feedparser
+PyRSS2Gen
+
+[test]
+coverage
+pytest
+pytest-cov

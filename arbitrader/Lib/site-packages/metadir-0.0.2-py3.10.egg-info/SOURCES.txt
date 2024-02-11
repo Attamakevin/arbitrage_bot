@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+README.rst
+setup.cfg
+setup.py
+metadir/__init__.py
+metadir/cli.py
+metadir/commands/__init__.py
+metadir/commands/base.py
+metadir/commands/init.py
+metadir/commands/utils.py
+tests/test_cli.py
+tests/__pycache__/test_cli.cpython-37-PYTEST.pyc
+tests/commands/test_hello.py
+tests/commands/__pycache__/test_hello.cpython-37-PYTEST.pyc

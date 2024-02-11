@@ -1,0 +1,11 @@
+metawiki
+typology
+metadir
+tinydb
+python-dateutil
+
+[develop]
+pre-commit==1.18.3
+coverage==4.5.4
+flake8==3.7.8
+isort==4.3.21
